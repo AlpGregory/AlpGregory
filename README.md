@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome!+👀;+This+is+Gregory+🎸;I'm+glad+you're+here+👋" />
+    <a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Righteous&weight=400&size=35&pause=1000&color=0277FF&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&lines=Welcome!+👀;+This+is+Gregory+🎸;I'm+glad+you're+here+👋" alt="Typing SVG" /></a>
 </h1>
 
 <h3 align="center">I'm a Computer Engineering student from Costa Rica 🇨🇷</h3>
@@ -10,7 +10,7 @@
 
 <div align="center">
  
-💻 Never stop learning..
+💻 Never stop learning...
 
 🎵 I like to play music as a hobby
  
@@ -21,15 +21,14 @@
 <h2 align="left">🧠⚒️ Skills</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=androidstudio,azure,bootstrap,cs,css,django,dotnet,git,html,idea,java,js" /><br>
-    <img src="https://skillicons.dev/icons?i=kotlin,linux,mongodb,postgres,postman,py,react" />
+    <img src="https://skillicons.dev/icons?i=django,py,cs,dotnet,git,html,css,bootstrap,react,java,js,postgres,postman,androidstudio,azure,kotlin,linux,mongodb&perline=6" /><br>
 </div>
 
 <br/>
 <hr/>
 
 <div align="left">
-  <h2>🐍 Activity</h2>
+  <h2>🖱️ Activity</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
