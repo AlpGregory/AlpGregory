@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AlpGregory.AlpGregory" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=alpgregory.alpgregory" />
 
 <h1 align="center">
     <a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Righteous&weight=400&size=35&pause=1000&color=0277FF&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&lines=Welcome!+👀;+This+is+Gregory+🎸;I'm+glad+you're+here+👋" alt="Typing SVG" /></a>
