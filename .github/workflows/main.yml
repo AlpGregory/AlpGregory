@@ -21,7 +21,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Clone repo
+      - name: generate github-contribution-grid-snake.svg
         uses: actions/checkout@v3
 
       - name: Generate the snake files in './dist/'
